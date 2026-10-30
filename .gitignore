@@ -1,0 +1,15 @@
+# Raw data (download from Kaggle, do not commit)
+data/
+*.csv
+
+# Jupyter backups
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+
+# Uncomment if dashboard.pbix is larger than 50 MB
+# powerbi/*.pbix
